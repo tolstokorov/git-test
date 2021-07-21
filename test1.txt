@@ -1,1 +1,7 @@
-test2
+git branch
+
+git checkout dev
+git merge master
+git push origin dev
+
+git checkout master
